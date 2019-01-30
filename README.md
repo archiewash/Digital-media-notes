@@ -20,3 +20,11 @@ auto correct but for coding to help prevent error . in the top right and looks l
 attribute inspector is top right and looks like a slider
 **Where is the icon for the project navigator and where is it located?**
 project navigator is in the top left and looks life a file
+
+### Workshop 2
+
+String controls charcters not numbers 
+intergers controls the numbers 
+a property is the same as a variable 
+constent (let) cant be changed a variable (var) can be changed
+function perfoms an action over and over again 
