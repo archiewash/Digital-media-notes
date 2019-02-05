@@ -44,3 +44,6 @@ function perfoms an action over and over again
 **What does 'Int' mean?**
 
 **How do you print out a variable or function in the debug area?**
+
+
+### Workshop 3
